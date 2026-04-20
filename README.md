@@ -1,39 +1,25 @@
-# 👋 Hi, I'm Chaitanya Dankhade
+# Hi 👋, I'm Chaitanya 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitanyaodd1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+### A DevOps/Cloud/Infrastructure I don't know what it is now it keeps on changing 🙃
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chaitanyaodd1" alt="GitHub Trophies" />
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyaodd1&label=Profile views&color=0e75b6&style=flat" alt="chaitanyaodd1" /> </p>
 
-## 🚀 About Me
-- 🌱 Currently learning **AWS & DevOps**
-- 💬 Ask me about **Python, Linux, Django & Docker**
-- 📫 Reach me at **chaitanya31d@gmail.com**
+- 🔭 I'm currently working on **A Shell project called portman which I stepped upon while trying to learn something else**
 
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-dankhade)
+- 🌱 I'm currently learning **Observability Stack(prometheous, graphana), k8s, Helm**
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- 🤝 I'm looking for help with **getting a Job**
 
-## 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaodd1&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyaodd1&show_icons=true&locale=en" alt="GitHub Stats" height="180em" />
-</div>
+- 📫 How to reach me **chaitanya31d@gmail.com**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyaodd1" alt="GitHub Streak" />
-</div>
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1-_78Qgh5huikn8GkkrV7MJ1GDaPFDNo4/view?usp=sharing](https://drive.google.com/file/d/1-_78Qgh5huikn8GkkrV7MJ1GDaPFDNo4/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/chaitanyaodd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="chaitanyaodd1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chaitanyadankhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyadankhade" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
